@@ -1,5 +1,5 @@
 # This project has been developed by Abdul Aliyan
-﻿# VIZUME - PORTFOLIO BUILDER WEBSITE
+﻿# VIZUME - PORTFOLIO  WEBSITE
 
 
 # Overview
@@ -49,4 +49,5 @@ Mobile-first responsive design using CSS Grid and Flexbox layouts with Bootstrap
 
 The application is designed to be fully self-contained with no server-side dependencies, making it suitable for static hosting environments like GitHub Pages, Netlify, or similar platforms.# vizume
 # vizume
+
 
